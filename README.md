@@ -1,4 +1,7 @@
 # Communications-Project
+Simple server-client Business communication software.
+
+
 ## Team members
 * Ayoub Mekkaoui
 * Van Nguyen
